@@ -57,6 +57,6 @@ python manage.py runserver
 ```
 
 ## Contributors 
-Kartik Pontula
-Yatindra Indoria
-Srishty Gandhi
+- Kartik Pontula
+- Yatindra Indoria
+- Srishty Gandhi
