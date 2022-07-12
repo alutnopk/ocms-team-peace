@@ -1,8 +1,8 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-yellow.svg)](https://www.python.org/downloads/release/python-360/)
 ![Django 3.0](https://img.shields.io/badge/Django-3.0-green.svg)
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)]()
-# Open Classroom
-This is an attempt to clone the best features of google classroom and educative.io using django.
+# Online Class Management System
+This is a class management system built by Team Peace () under the Software Engineering Laboratory Course during the Spring Semester 2022 of IIT Kharagpur.
 
 ## Screenshots 
 <img src="screenshots/home.PNG" width="400"/><img src="screenshots/features.PNG" width="400"/> 
@@ -55,8 +55,3 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 ```
-
-## Contributors 
-- Kartik Pontula
-- Yatindra Indoria
-- Srishty Gandhi
