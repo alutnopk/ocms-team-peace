@@ -57,8 +57,6 @@ python manage.py runserver
 ```
 
 ## Contributors 
-<a href="https://github.com/mishrakeshav">Keshav Mishra</a><br>
-<a href="https://github.com/Phoenix009">Jaideep More</a><br>
-<a href="https://github.com/aneeshKM">Aneesh Mokashi</a><br>
-<a href="https://github.com/MHardik29">Hardik Mandaliya</a>
-"# ocms" 
+Kartik Pontula
+Yatindra Indoria
+Srishty Gandhi
