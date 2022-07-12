@@ -2,7 +2,7 @@
 ![Django 3.0](https://img.shields.io/badge/Django-3.0-green.svg)
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)]()
 # Online Class Management System
-This is a class management system built by Team Peace () under the Software Engineering Laboratory Course during the Spring Semester 2022 of IIT Kharagpur.
+This is a class management system built by Team Peace ([Yatindra Indoria](https://github.com/yatindra7), [Srishty Gandhi](https://github.com/srishty1303), and [Kartik Pontula](https://github.com/alutnopk)) under the Software Engineering Laboratory Course during the Spring Semester 2022 of IIT Kharagpur.
 
 ## Screenshots 
 <img src="screenshots/home.PNG" width="400"/><img src="screenshots/features.PNG" width="400"/> 
